@@ -1,0 +1,6 @@
+classes=6
+train=data/buses/train.txt
+valid=data/buses/val.txt
+names=config/buses.names
+backup=backup/
+
